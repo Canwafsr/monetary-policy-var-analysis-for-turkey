@@ -83,7 +83,7 @@ Structural shock simulations using **Cholesky One S.D. Innovations** reveal cruc
 
 Variance decomposition traces where volatility originates over a **12-period horizon**.
 
-![Variance Decomposition](figures\varyans_ayristirma.png)
+![Variance Decomposition](figures/varyans_ayristirma.png)
 
 | Variable | Own Shocks | Exchange Rate Shocks | Monetary Policy Shocks |
 |---|---|---|---|
@@ -103,7 +103,7 @@ Variance decomposition traces where volatility originates over a **12-period hor
 
 Pairwise Granger causality tests confirm that past values of variables hold **statistically significant predictive power** over current indicators.
 
-![Granger Causality Tests](figures\granger_nedensellik.png)
+![Granger Causality Tests](figures/granger_nedensellik.png)
 
 | Causal Relationship | F-Statistic | p-value | Conclusion |
 |---|---|---|---|
@@ -135,11 +135,11 @@ All estimated inverse roots of the AR characteristic polynomial lie **strictly i
 
 **AR Roots Table**
 
-![AR Roots Table](figures\ar_kok_tablo.png)
+![AR Roots Table](figures/ar_kok_tablo.png)
 
 **AR Roots Plot — Inverse Roots of Characteristic Polynomial**
 
-![AR Roots Plot](figures\ar_kok_modul.png)
+![AR Roots Plot](figures/ar_kok_modul.png)
 
 > *No root lies outside the unit circle. The VAR satisfies the stability condition.*
 
