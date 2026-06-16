@@ -1,0 +1,127 @@
+
+{
+	"commands" : [ "delete granger_nedensellik ", "{%group}.rename granger_nedensellik" ],
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\can\\masaüstü\\github projeleri\\gysh-döviz-politika faiz\\eviews\\gsyih_kur_faiz.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 739782.4946643518, "06/16/2026 11:52" ],
+				"_name" : "Untitled",
+				"_obj_count" : 19,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 739736.0, "05/01/2026" ],
+						"_obs_min" : [ 735598.0, "01/01/2015" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "AR_KOK_MODUL",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "AR_KOK_TABLO",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "D1_FAIZ",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D1_LOG_GSYIH",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "D1_LOG_KUR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "ETKI_TEPKI",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "FAIZ",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FAIZ_FARK1",
+						"_type" : "SPOOL"
+					},
+					
+					{
+						"_name" : "GRANGER_NEDENSELLIK",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "GSYIH",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "JOHANSEN_ESBUTUNLESME",
+						"_type" : "VAR"
+					},
+					
+					{
+						"_name" : "KUR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_GSYIH",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_GSYIH_FARK1",
+						"_type" : "SPOOL"
+					},
+					
+					{
+						"_name" : "LOG_KUR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LOG_KUR_FARK1",
+						"_type" : "SPOOL"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "VARYANS_AYRISTIRMA",
+						"_type" : "TABLE"
+					}
+				],
+				"_obs_count" : 137
+			}
+		]
+	}
+}
